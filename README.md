@@ -1,4 +1,4 @@
-# JavaScript-Repo
+##$ JavaScript-Repo !!
 # JavaScript Learning Repository
 
 This repository contains my JavaScript learning materials, lecture files, notes, and practice exercises. I created this repository while learning JavaScript at home and solving coding questions related to each topic.
