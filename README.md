@@ -32,7 +32,6 @@ Each lecture folder contains:
 * Lecture examples
 * Practice code
 * Assignments and exercises
-* Notes and explanations
 
 ## Purpose
 
