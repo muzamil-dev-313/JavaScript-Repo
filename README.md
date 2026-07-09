@@ -3,7 +3,7 @@
 
 This repository contains my JavaScript learning materials, lecture files, notes, and practice exercises. I created this repository while learning JavaScript at home and solving coding questions related to each topic.
 
-## Topics Covered
+## Topics Covered.
 
 * Variables (`var`, `let`, `const`)
 * Data Types
@@ -32,7 +32,7 @@ Each lecture folder contains:
 * Lecture examples
 * Practice code
 * Assignments and exercises
-
+* 
 ## Purpose
 
 The purpose of this repository is to document my JavaScript learning journey, strengthen my programming skills through practice, and keep all learning resources organized in one place.
