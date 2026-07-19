@@ -20,12 +20,12 @@ h1.addEventListener('click', function () {
 });
 
 let p = document.querySelector(".colorChanging");
-p.addEventListener("click", function(){
+p.addEventListener("click", function () {
     p.style.color = "green";
     p.style.backgroundColor = "yellow"
     p.style.fontSize = "20px"
 });
-p.addEventListener("dblclick", function(){
+p.addEventListener("dblclick", function () {
     p.style.color = "black";
     p.style.fontSize = "25px"
 })
@@ -35,6 +35,18 @@ function element() {
 }
 p.addEventListener("dblclick", element); // Do the display of paragraph none 
 p.removeEventListener("dblclick", element); // Remove the listener. When we double click because we said to our listener make our action double click.
+
+let i = document.querySelector(".inp");
+// i.addEventListener("input", function(data){
+//     console.log("typed")
+//     // console.log(data)
+// });
+i.addEventListener("input", function (evt) {
+    if (evt.data !== null) { // if you click backspace key the backspace, data is null so we use it variable name and .data !== null then our console will not show us null when we use backspace.
+        console.log(evt.data)
+    }
+    // console.log(evt.data)
+})
 
 // Practice Questions of DOM Manipulation 
 // 1. Change Text on Button Click 
