@@ -1,3 +1,7 @@
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow)
+![Status](https://img.shields.io/badge/Status-Active-green)
+![Repository](https://img.shields.io/badge/Repository-Practice-blue)
+
 ##$ JavaScript-Repo !!
 # JavaScript Learning Repository
 
