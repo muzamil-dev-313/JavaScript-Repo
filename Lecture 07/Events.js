@@ -295,5 +295,17 @@ mode.addEventListener("click", () => {
     }
 });
 
+
+let selection = document.querySelector("#selection")
+let selHeading = document.querySelector(".selHeading")
+selection.addEventListener("change", function(details){
+    console.log(details);
+    console.log(details.target.value);
+    // selHeading.textContent = "Device Selected"
+    selHeading.textContent = `${details.target.value} Device Selected`
+});
+
+
+
 // home when mouse over on something then it should happens something in the document, anything you want 
 
